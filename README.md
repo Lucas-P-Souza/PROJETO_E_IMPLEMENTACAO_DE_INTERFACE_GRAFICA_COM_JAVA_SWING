@@ -1,2 +1,7 @@
-# PROJETO E IMPLEMENTAÇÃO DE INTERFACE GRÁFICA COM JAVA SWING
-Este repositório é destinado totalmente à publicação das listas de exercícios da matéria IESTI03_2024_S2_T01 - PROJETO E IMPLEMENTAÇÃO DE INTERFACE GRÁFICA COM JAVA SWING
+# Projeto e Implementação de Interface Gráfica com Java Swing
+
+Este repositório é dedicado à publicação das listas de exercícios da disciplina **IESTI03_2024_S2_T01 - Projeto e Implementação de Interface Gráfica com Java Swing**.
+
+Cada lista de exercícios terá sua própria pasta, facilitando a organização e o acesso ao conteúdo.
+
+As pastas que serão incluídas neste repositório correspondem às estruturas de diretórios criadas ao iniciar cada projeto Java durante os exercícios.
