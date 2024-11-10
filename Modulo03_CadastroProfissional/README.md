@@ -1,2 +1,2 @@
 # Cadastro de Profissional
-![Exercicio A](CadastrodeProfissional.png)
+![CadastroDeProfissional](CadastrodeProfissional.png)
