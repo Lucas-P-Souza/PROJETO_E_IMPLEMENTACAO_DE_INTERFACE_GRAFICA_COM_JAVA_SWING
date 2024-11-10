@@ -1,6 +1,6 @@
 # Exercícios
 
-Aqui estão as imagens dos exercícios A até K:
+Aqui estão as imagens das janelas dos exercícios A até K:
 
 ## Exercício A
 ![Exercicio A](imagens/exercicioA.png)
