@@ -3,34 +3,34 @@
 Aqui estão as imagens dos exercícios A até K:
 
 ## Exercício A
-![Exercicio A](images/exercicioA.png)
+![Exercicio A](imagens/exercicioA.png)
 
 ## Exercício B
-![Exercicio B](images/exercicioB.png)
+![Exercicio B](imagens/exercicioB.png)
 
 ## Exercício C
-![Exercicio C](images/exercicioC.png)
+![Exercicio C](imagens/exercicioC.png)
 
 ## Exercício D
-![Exercicio D](images/exercicioD.png)
+![Exercicio D](imagens/exercicioD.png)
 
 ## Exercício E
-![Exercicio E](images/exercicioE.png)
+![Exercicio E](imagens/exercicioE.png)
 
 ## Exercício F
-![Exercicio F](images/exercicioF.png)
+![Exercicio F](imagens/exercicioF.png)
 
 ## Exercício G
-![Exercicio G](images/exercicioG.png)
+![Exercicio G](imagens/exercicioG.png)
 
 ## Exercício H
-![Exercicio H](images/exercicioH.png)
+![Exercicio H](imagens/exercicioH.png)
 
 ## Exercício I
-![Exercicio I](images/exercicioI.png)
+![Exercicio I](imagens/exercicioI.png)
 
 ## Exercício J
-![Exercicio J](images/exercicioJ.png)
+![Exercicio J](imagens/exercicioJ.png)
 
 ## Exercício K
-![Exercicio K](images/exercicioK.png)
+![Exercicio K](imagens/exercicioK.png)
